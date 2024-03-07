@@ -21,7 +21,6 @@
     "template",
     "react"
   ],
-  
   "author": "MDBootstrap",
   "license": "SEE LICENSE IN <License.txt>",
   "browserslist": {
@@ -35,6 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
-  
 }
