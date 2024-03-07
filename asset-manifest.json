@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dipayan131/weather_app.git/static/css/main.fe9b4471.css",
+    "main.js": "/Dipayan131/weather_app.git/static/js/main.16071d9a.js",
+    "static/js/453.90a21e08.chunk.js": "/Dipayan131/weather_app.git/static/js/453.90a21e08.chunk.js",
+    "static/media/background_image.jpg": "/Dipayan131/weather_app.git/static/media/background_image.4c9f876f7112b661ab71.jpg",
+    "index.html": "/Dipayan131/weather_app.git/index.html",
+    "main.fe9b4471.css.map": "/Dipayan131/weather_app.git/static/css/main.fe9b4471.css.map",
+    "main.16071d9a.js.map": "/Dipayan131/weather_app.git/static/js/main.16071d9a.js.map",
+    "453.90a21e08.chunk.js.map": "/Dipayan131/weather_app.git/static/js/453.90a21e08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe9b4471.css",
+    "static/js/main.16071d9a.js"
+  ]
+}
